@@ -11,11 +11,13 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
+		"@carbon/charts-svelte": "^1.6.0",
 		"@fontsource/fira-mono": "^4.5.0",
 		"@neoconfetti/svelte": "^1.0.0",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@types/cookie": "^0.5.1",
+		"d3": "^7.6.1",
 		"prettier": "^2.6.2",
 		"prettier-plugin-svelte": "^2.7.0",
 		"svelte": "^3.46.0",
@@ -27,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@carbon/charts": "^1.6.0",
 		"@svelteuidev/composables": "^0.7.3",
 		"@svelteuidev/core": "^0.7.3",
 		"lucide-svelte": "^0.91.0"

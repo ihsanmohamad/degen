@@ -29,7 +29,7 @@
 </script>
 
 <div class={classes.root}>
-<a  href={"/fund-information/rhb-dana-hazeem"} class={classes.link}>
+<a  href={"/fund-performance/rhb-dana-hazeem"} class={classes.link}>
 <Paper withBorder p="md" radius="md" class={classes.card}>
 	<Group position="apart">
 		<div>
